@@ -23,3 +23,20 @@ To verify that the login page works correctly according to the requirements.
 ## Tools Used
 - GitHub
 - Manual Testing
+
+
+## Project Files
+
+- **Test-Cases.md** – Contains login page test cases.
+- **Bug-Report.md** – Contains a sample bug report.
+- **Test-Execution-Report.md** – Contains test execution results.
+
+## Skills Demonstrated
+
+- Manual Testing
+- Test Case Design
+- Functional Testing
+- Positive and Negative Testing
+- Bug Reporting
+- Test Execution
+- Test Documentation
